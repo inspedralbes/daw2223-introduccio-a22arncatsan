@@ -5,9 +5,9 @@ Els [professors](https://www.institutpedralbes.cat/) del institut son:
  1. Alvaro
  2. Pol
  3. Ermengol
- 4. Profe A
- 5. Profe B
- 6. Profe C
+ 4. Profe 1
+ 5. Profe 2
+ 6. Profe 3
 
 Les assignatures del institut son:
 
