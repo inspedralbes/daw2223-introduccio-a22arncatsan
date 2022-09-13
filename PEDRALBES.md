@@ -6,7 +6,6 @@ Els [professors](https://www.institutpedralbes.cat/) del institut son:
  2. Pol
  3. Ermengol
 
-
 Les assignatures del institut son:
 
  - Desenvolupament Web en entorn Client
