@@ -8,7 +8,7 @@ Els [professors](https://www.institutpedralbes.cat/) del institut son:
  4. Profe 1
  5. Profe 2
  6. Profe 3
-
+ 
 Les assignatures del institut son:
 
  - Desenvolupament Web en entorn Client
